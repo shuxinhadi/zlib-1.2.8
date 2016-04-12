@@ -1,0 +1,11 @@
+﻿Build started 2016/1/18 14:31:06.
+     1>Project "D:\workdir\c++source\zlib128\zlib-1.2.8\contrib\vstudio\vc11\minizip.vcxproj" on node 3 (Build target(s)).
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"x64\Release\minizip.exe" /INCREMENTAL:NO /NOLOGO x64\ZlibDllRelease\zlibwapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"x64\Release\minizip.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"x64\Release\minizip.lib" /MACHINE:X64 /SAFESEH:NO x64\Release\minizip.obj
+         "D:\workdir\c++source\zlib128\zlib-1.2.8\contrib\vstudio\vc11\x64\ZlibDllRelease\zlibwapi.lib"
+         minizip.vcxproj -> D:\workdir\c++source\zlib128\zlib-1.2.8\contrib\vstudio\vc11\x64\Release\minizip.exe
+     1>Done Building Project "D:\workdir\c++source\zlib128\zlib-1.2.8\contrib\vstudio\vc11\minizip.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.16
